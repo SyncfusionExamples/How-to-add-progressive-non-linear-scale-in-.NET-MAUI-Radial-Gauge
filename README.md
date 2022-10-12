@@ -1,8 +1,8 @@
 # How to add progressive non-linear scale in .NET MAUI Radial Gauge
 
-This article contains sample for how to add progressive non-linear scale using the [Syncfusion .NET MAUI Radial Gauge](https://help.syncfusion.com/maui/radial-gauge/getting-started) control.
+This article contains sample to add progressive (non-linear) scale using the [Syncfusion .NET MAUI Radial Gauge](https://help.syncfusion.com/maui/radial-gauge/getting-started) control.
 
-Please refer the KB through this [link]().
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13672/how-to-add-progressive-non-linear-scale-in-net-maui-radial-gauge-sfradialgauge).
 
 ## Syncfusion controls
 
